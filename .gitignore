@@ -6,3 +6,7 @@ components/routes/_*
 .DS_Store
 .viminfo
 .vscode/
+server/localdev-config.json
+vcap-local.js
+credentials.json
+localdev-config.json
